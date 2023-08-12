@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Syed Abid Hassan</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A Passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-abid&label=Profile%20views&color=0e75b6&style=flat" alt="syed-abid" /> </p>
 
 <p align="left"> <a href="https://twitter.com/syedabi70523793" target="blank"><img src="https://img.shields.io/twitter/follow/syedabi70523793?logo=twitter&style=for-the-badge" alt="syedabi70523793" /></a> </p>
 
+- 🔭 I’m currently working on **a project named "Gen-Z Career Aspirations"**
+
+- 🌱 I’m currently learning **Advanced SQL, Advanced Excel, Python for Data Analytics, Power BI, Business Intelligence**
+
+- 💬 Ask me about **Data Analytics, Business Analytics ,Data Visualization and Data Modelling.**
+
 - 📫 How to reach me **abidhassanjaffri31@gmail.com**
+
+- ⚡ Fun fact **63,000 search queries are performed every second on Google alone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
