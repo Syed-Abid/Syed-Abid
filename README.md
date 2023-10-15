@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/syedabi70523793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedabi70523793" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed abid hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed abid hassan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed abid hassan" height="30" width="40" /></a>
 <a href="https://fb.com/syed abid hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed abid hassan" height="30" width="40" /></a>
 <a href="https://instagram.com/syedabid3527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedabid3527" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sjaffri352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sjaffri352" height="30" width="40" /></a>
