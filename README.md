@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced SQL, Advanced Excel, Python for Data Analytics, Power BI, Business Intelligence**
 
-- 💬 Ask me about **Data Analytics, Business Analytics ,Data Visualization and Data Modelling.**
+- 💬 Ask me about **Data Analytics, Data Warehousing ,Data Visualization, Data Modelling, Data Integration.**
 
 - 📫 How to reach me **abidhassanjaffri31@gmail.com**
 
