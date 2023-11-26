@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/syedabi70523793" target="blank"><img src="https://img.shields.io/twitter/follow/syedabi70523793?logo=twitter&style=for-the-badge" alt="syedabi70523793" /></a> </p>
 
-- 🔭 I’m currently working on **a project named "Gen-Z Career Aspirations"**
+- 🔭 I’m currently working on **a challenge named "Danny's Diner - 8 Week SQL Challenge".** Along with this I am also working on some others like
+      building a Web Scraper in Python and much more.
 
 - 🌱 I’m currently learning **Advanced SQL, Advanced Excel, Python for Data Analytics, Power BI, Business Intelligence**
 
