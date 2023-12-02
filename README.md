@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **a challenge named "Danny's Diner - 8 Week SQL Challenge".** Along with this I am also working on some  others like
       building a Web Scraper in Python and much more.
 
-- 🌱 I’m currently learning **Advanced SQL, Advanced Excel, Python for Data Analytics, Power BI, Business Intelligence**
+- 🌱 I’m currently learning **Advanced SQL, Advanced Excel, Python for Data Analytics, Data Warehousing, Data Integration and Business Intelligence**
 
 - 💬 Ask me about **Data Analytics, Data Warehousing ,Data Visualization, Data Modelling, Data Integration.**
 
