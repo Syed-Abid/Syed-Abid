@@ -34,7 +34,7 @@
 
 <h3 align="left">Honors & Awards:</h3>
 <div style="display: flex; justify-content: space-between;">
-  <img src="image1.png" style="margin-right: 10px;" width="100" />
-  <img src="image2.png" style="margin-right: 10px;" width="100" />
-  <img src="image3.png" width="100" />
+  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award1.jpeg" style="margin-right: 10px;" width="150" />
+  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award2.jpeg" style="margin-right: 10px;" width="150" />
+  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award3.jpeg" width="150" />
 </div>
