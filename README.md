@@ -40,5 +40,5 @@
   <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award4.jpeg" style="margin-right: 30px;" width="500" />
 </div>
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award5.jpeg" style="margin-right: 10px;" width="600" />
+  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award5.jpeg" width="600" />
 </div>
