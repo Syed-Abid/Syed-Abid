@@ -31,3 +31,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-abid&show_icons=true&locale=en&layout=compact" alt="syed-abid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-abid&" alt="syed-abid" /></p>
+
+<h3 align="left">Honors & Awards:</h3>
