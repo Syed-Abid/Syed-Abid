@@ -33,3 +33,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-abid&" alt="syed-abid" /></p>
 
 <h3 align="left">Honors & Awards:</h3>
+<div style="display: flex; justify-content: space-between;">
+  <img src="image1.png" style="margin-right: 10px;" width="100" />
+  <img src="image2.png" style="margin-right: 10px;" width="100" />
+  <img src="image3.png" width="100" />
+</div>
