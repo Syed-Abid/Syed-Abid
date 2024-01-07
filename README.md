@@ -34,10 +34,10 @@
 
 <h3 align="left">Honors & Awards:</h3>
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award1.jpeg" style="margin-right: 30px;" width="500" />
-  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award2.jpeg" style="margin-right: 30px;" width="500" />
-  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award3.jpeg" style="margin-right: 30px;" width="500" />
-  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award4.jpeg" style="margin-right: 30px;" width="500" />
+  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award1.jpeg" style="margin-right: 30px;" width="400" />
+  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award2.jpeg" style="margin-right: 30px;" width="400" />
+  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award3.jpeg" style="margin-right: 30px;" width="400" />
+  <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award4.jpeg" style="margin-right: 30px;" width="400" />
 </div>
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award5.jpeg" width="600" />
