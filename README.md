@@ -32,6 +32,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-abid&" alt="syed-abid" /></p>
 
+<h3 align="left">Certifications:</h3>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/Syed-Abid/HackerRank-Certifications-/blob/main/SQL%20Basic%20Certification.jpg" style="margin-right: 30px; border-radius: 15px;" width="300" />
+  <img src="https://github.com/Syed-Abid/HackerRank-Certifications-/blob/main/Python%20Basic%20Certification.jpg" style="margin-right: 30px; border-radius: 15px;" width="300" />
+</div>
+
 <h3 align="left">Honors & Awards:</h3>
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/Syed-Abid/Syed-Abid/blob/main/award1.jpeg" style="margin-right: 30px; border-radius: 15px;" width="300" />
