@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/syedabi70523793" target="blank"><img src="https://img.shields.io/twitter/follow/syedabi70523793?logo=twitter&style=for-the-badge" alt="syedabi70523793" /></a> </p>
 
 - 🔭 I’m currently working on **a challenge named "Pizza Runner - 8 Week SQL Challenge".** Along with this I am also working on a full stack data analysis project named **"Cricket 
-     Insight 20"** and some others like building a **Web Scraper in Python** and much more.
+     Insight 20"** and some others like building a **Pushup Counter in Python** and much more.
 
 - 🌱 I’m currently learning **Advanced SQL, Advanced Excel, Python for Data Analytics, Data Warehousing, Data Integration and Business Intelligence**
 
