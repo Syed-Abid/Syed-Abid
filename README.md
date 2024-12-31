@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/syedabi70523793" target="blank"><img src="https://img.shields.io/twitter/follow/syedabi70523793?logo=twitter&style=for-the-badge" alt="syedabi70523793" /></a> </p>
 
-- 🔭 I’m currently working as a **Junior Business Intelligence Programmer" at **Centegy Technologies**. Along with this I am upskilling myself in **Datawarehousing** and getting a good grip on
+- 🔭 I’m currently working as a **Junior Business Intelligence Programmer** at **Centegy Technologies**. Along with this I am upskilling myself in **Datawarehousing** and getting a good grip on
       on my technical side.
 
 - 🌱 I’m currently learning **Advanced SQL, Advanced Excel, Python for Data Analytics, Data Warehousing, Data Integration and Business Intelligence**
